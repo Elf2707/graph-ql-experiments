@@ -1,12 +1,49 @@
 {
   "users": [
-    { "id": "23", "firstName": "Harry", "age": 20, "companyId": "1" },
-    { "id": "47", "firstName": "Ron", "age": 21, "companyId": "2" },
-    { "id": "50", "firstName": "Hermione", "age": 19, "companyId": "2" }
+    {
+      "id": "23",
+      "firstName": "Harry",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "47",
+      "firstName": "Ron",
+      "age": 21,
+      "companyId": "2"
+    },
+    {
+      "id": "50",
+      "firstName": "Hermione",
+      "age": 19,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Severus",
+      "age": 45,
+      "id": "fr7PQT0"
+    },
+    {
+      "firstName": "Severus",
+      "age": 45,
+      "id": "TIzjliT"
+    }
   ],
   "companies": [
-    { "id": "1", "name": "Hogwards", "description": "Magic School" },
-    { "id": "2", "name": "Grifindor", "description": "Harries faculta" },
-    { "id": "3", "name": "Slizoline", "description": "Malfoys Green faculta" }
+    {
+      "id": "1",
+      "name": "Hogwards",
+      "description": "Magic School"
+    },
+    {
+      "id": "2",
+      "name": "Grifindor",
+      "description": "Harries faculta"
+    },
+    {
+      "id": "3",
+      "name": "Slizoline",
+      "description": "Malfoys Green faculta"
+    }
   ]
 }
